@@ -10,7 +10,7 @@ Damla Ilgın Hacımahmutoğlu 211216011  (Section 1)
 
 Supervisior:Keyvan Arasteh  https://github.com/keyvanarasteh
 
-Screenshots:
+**Screenshots:**
 
 İçeriği ve sayfaları kendimize göre uyarlanarak değiştirilecek.
 
