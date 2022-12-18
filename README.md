@@ -2,11 +2,11 @@
 
 **FLUTTER UX DaseTeam**
 
-*Developers:
+Developers:
 
 Ebrar Sena Küçükarslan 211216084  (Section 1)
 
-Damla Ilgın Hacımahmutoğlu 211216011*  (Section 1)
+Damla Ilgın Hacımahmutoğlu 211216011  (Section 1)
 
 [Supervisior:]  https://github.com/keyvanarasteh
 
